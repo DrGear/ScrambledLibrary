@@ -33,4 +33,4 @@ This will save the result to a text file (e.g., `deviled_output.txt`).
 
 ## Author
 
-GitHub: [@The-Hipnotist](https://github.com/The-Hipnotist)
+GitHub: [@DrGear](https://github.com/DrGear)
