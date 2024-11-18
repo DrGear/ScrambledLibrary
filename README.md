@@ -6,7 +6,7 @@ ScrambledLibrary is a Python package that transforms sentences into new ones usi
 
 Install ScrambledLibrary using pip:
 ```bash
-pip install git+https://github.com/The-Hipnotist/ScrambledLibrary.git
+pip install git+https://github.com/DrGear/ScrambledLibrary.git
 ```
 
 ## Usage
