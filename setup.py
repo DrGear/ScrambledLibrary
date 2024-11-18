@@ -8,7 +8,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
     author="The-Hipnotist",
-    url="https://github.com/The-Hipnotist/ScrambledLibrary",
+    url="https://github.com/DrGear/ScrambledLibrary",
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
